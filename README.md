@@ -5,7 +5,6 @@
 ## Hi! ☺️
 My name is Veronika 
 
-I am graduating from university with a degree in computer security 
 * 🧠  I'm learning Math, Python, SQL
 * 🤝  I'm open to collaborating on any project where you can practice your knowledge and gain experience
 * ⚡  Be curious. No matter how difficult life may seem, you can always do something and achieve something.
