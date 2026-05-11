@@ -5,8 +5,7 @@
 ## Hi! ☺️
 My name is Veronika 
 
-I'm just starting my journey into the world of data and I hope that everything will work out for me. I am graduating from university with a degree in computer security and at the same time studying at Geekbrains to become an analyst.  
-* ✉️  You can contact me at [veronika.merberg@gmail.com](mailto:veronika.merberg@gmail.com)
+I am graduating from university with a degree in computer security 
 * 🧠  I'm learning Math, Python, SQL
 * 🤝  I'm open to collaborating on any project where you can practice your knowledge and gain experience
 * ⚡  Be curious. No matter how difficult life may seem, you can always do something and achieve something.
