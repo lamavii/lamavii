@@ -17,10 +17,4 @@ My name is Veronika
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> </p> 
  
 
-### Badges
 
-<a href="https://github.com/lamavii" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamavii&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### ◽️I'm always happy to talk about something interesting
-
-![](https://media2.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif?cid=ecf05e47o3zykgokuqcqoa2a64hjcllxbs2dg5hr6zykgid7&ep=v1_gifs_related&rid=giphy.gif&ct=g)
